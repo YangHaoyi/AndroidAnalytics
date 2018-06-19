@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorMap"
+        android:gravity="center"
+        android:text="@string/app_map"
+        android:textSize="16sp"
+        android:textColor="@color/colorBlack"/>
+
+    <ListView
+        android:id="@+id/userList"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+
+
+
+
+
+
+
+    <include layout="@layout/include_view_button_list"/>
+
+
+
+
+
+
+</FrameLayout>

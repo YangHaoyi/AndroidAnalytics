@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">图吧统计</string>
+    <string name="app_map">地图页</string>
+    <string name="app_setting">设置页</string>
+    <string name="app_collection">收藏页</string>
+    <string name="app_search">搜索页</string>
+</resources>

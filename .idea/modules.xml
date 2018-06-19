@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyAnalytics.iml" filepath="$PROJECT_DIR$/MyAnalytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analytics/analytics.iml" filepath="$PROJECT_DIR$/analytics/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net/net.iml" filepath="$PROJECT_DIR$/net/net.iml" />
+    </modules>
+  </component>
+</project>
