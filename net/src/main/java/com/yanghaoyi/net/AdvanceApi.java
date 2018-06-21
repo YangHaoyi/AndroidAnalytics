@@ -20,11 +20,11 @@ public interface AdvanceApi {
 
 
     @Headers({"Content-Type: application/json", "Accept: application/json"})
-    @POST("avi/v1/analytics/duration")
+    @POST("api/v1/analytics/duration")
     Observable<EmptyData> sendPageData(@Body RequestBody param);
 
     @Headers({"Content-Type: application/json", "Accept: application/json"})
-    @POST("avi/v1/analytics/click")
+    @POST("api/v1/analytics/click")
     Observable<EmptyData> sendClickEvent(@Body RequestBody param);
 
 
